@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "name": "React",
+        "rating": {
+            "number": 4.5,
+            "price": "6999"
+        },
+        "title": "How to easily create a website with React",
+        "author": {
+            "name": "Musfiqur Rahman",
+            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-1/297102495_857323648578571_5316472609504527820_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-N5vTnMvL0JFU2wV0VtmnjuNo6xQlJbWO42jrFCUltTkHmkmoTXFFUK1jPpqlpxoGs65StDNbn-_dMy75jJSj&_nc_ohc=YQC1jhotKRgAX-b8lr0&_nc_ht=scontent.fjsr16-1.fna&oh=00_AfADksNKirGu1Sw1Yo4A-39dZTaXD-LKDO-htu6mFvMqlA&oe=635F2996"
+        },
+        "thumbnail_url": "https://geeks.madrasthemes.com/wp-content/uploads/2021/09/course-react.jpg",
+        "details": "This course is fully up-to-date with React 18 (the latest version of React)! It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know!"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ah0",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "name": "Angular",
+        "rating": {
+            "number": 4.5,
+            "price": "4999"
+        },
+        "title": "Angular - the complete guide for beginner",
+        "author": {
+            "name": "Musfiqur Rahman",
+            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-1/297102495_857323648578571_5316472609504527820_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-N5vTnMvL0JFU2wV0VtmnjuNo6xQlJbWO42jrFCUltTkHmkmoTXFFUK1jPpqlpxoGs65StDNbn-_dMy75jJSj&_nc_ohc=YQC1jhotKRgAX-b8lr0&_nc_ht=scontent.fjsr16-1.fna&oh=00_AfADksNKirGu1Sw1Yo4A-39dZTaXD-LKDO-htu6mFvMqlA&oe=635F2996"
+        },
+        "thumbnail_url": "https://geeks.madrasthemes.com/wp-content/uploads/2021/09/course-angular.jpg",
+        "details": "Join the most comprehensive and bestselling Angular course on Geeks and learn all about this amazing framework from the ground up, in great depth! This course starts from scratch, you neither need to know Angular 1 nor Angular 2! Angular 13 simply is the latest version of Angular 2, you will learn this amazing framework from the ground up in this course!"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c8tk2",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "name": "Python",
+        "rating": {
+            "number": 4.5,
+            "price": "3999"
+        },
+        "title": "The Python Course: build web application",
+        "author": {
+            "name": "Musfiqur Rahman",
+            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-1/297102495_857323648578571_5316472609504527820_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-N5vTnMvL0JFU2wV0VtmnjuNo6xQlJbWO42jrFCUltTkHmkmoTXFFUK1jPpqlpxoGs65StDNbn-_dMy75jJSj&_nc_ohc=YQC1jhotKRgAX-b8lr0&_nc_ht=scontent.fjsr16-1.fna&oh=00_AfADksNKirGu1Sw1Yo4A-39dZTaXD-LKDO-htu6mFvMqlA&oe=635F2996"
+        },
+        "thumbnail_url": "https://geeks.madrasthemes.com/wp-content/uploads/2021/09/course-python.jpg",
+        "details": "Just updated for 2022! It's time to become a modern and complete Python developer! Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto. Graduates of Andrei's courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies."
+    },
+    {
+        "_id": "0282e0e58a5c4n2n2nd15261f11c8tk2",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "name": "WordPress",
+        "rating": {
+            "number": 4.5,
+            "price": "9999"
+        },
+        "title": "WordPress: complete WordPress theme & plugin development",
+        "author": {
+            "name": "Musfiqur Rahman",
+            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-1/297102495_857323648578571_5316472609504527820_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-N5vTnMvL0JFU2wV0VtmnjuNo6xQlJbWO42jrFCUltTkHmkmoTXFFUK1jPpqlpxoGs65StDNbn-_dMy75jJSj&_nc_ohc=YQC1jhotKRgAX-b8lr0&_nc_ht=scontent.fjsr16-1.fna&oh=00_AfADksNKirGu1Sw1Yo4A-39dZTaXD-LKDO-htu6mFvMqlA&oe=635F2996"
+        },
+        "thumbnail_url": "https://geeks.madrasthemes.com/wp-content/uploads/2021/09/course-wordpress.jpg",
+        "details": "Wordpress for Beginners - A Complete Guide to Wordpress! In 2022, it's never been easier to build a fantastic, responsive website that looks great on computers, tablets, and mobile phones. You can learn Wordpress WITHOUT having to buy web hosting or a domain name. I'll show you how you can set it all up on your own computer using free tools.NOTE: This course will always be updated to cover the latest version of WordPress."
+    },
+    {
+        "_id": "0282e0e58a5c4n2n2nd15261ilo54c8tk2",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "05",
+        "name": "JavaScript",
+        "rating": {
+            "number": 4.5,
+            "price": "4999"
+        },
+        "title": "Applying JavaScript and using the console.",
+        "author": {
+            "name": "Musfiqur Rahman",
+            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-1/297102495_857323648578571_5316472609504527820_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-N5vTnMvL0JFU2wV0VtmnjuNo6xQlJbWO42jrFCUltTkHmkmoTXFFUK1jPpqlpxoGs65StDNbn-_dMy75jJSj&_nc_ohc=YQC1jhotKRgAX-b8lr0&_nc_ht=scontent.fjsr16-1.fna&oh=00_AfADksNKirGu1Sw1Yo4A-39dZTaXD-LKDO-htu6mFvMqlA&oe=635F2996"
+        },
+        "thumbnail_url": "https://geeks.madrasthemes.com/wp-content/uploads/2021/09/course-javascript.jpg",
+        "details": "Really, really well made course. Super in-depth, with great challenges and projects that will solidify your Javascript understanding. I found the lectures were paced perfectly -- Jonas doesn't skip over anything that might be useful to a JS developer — Carson Bartholomew JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!"
+    },
+    {
+        "_id": "0282e0e58a5c4npmstart15261ilo54c8tk2",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "06",
+        "name": "GraphQL",
+        "rating": {
+            "number": 4.5,
+            "price": "7999"
+        },
+        "title": "GraphQL: introduction to graphQL for beginners",
+        "author": {
+            "name": "Musfiqur Rahman",
+            "img": "https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-1/297102495_857323648578571_5316472609504527820_n.jpg?stp=dst-jpg_p240x240&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeH-N5vTnMvL0JFU2wV0VtmnjuNo6xQlJbWO42jrFCUltTkHmkmoTXFFUK1jPpqlpxoGs65StDNbn-_dMy75jJSj&_nc_ohc=YQC1jhotKRgAX-b8lr0&_nc_ht=scontent.fjsr16-1.fna&oh=00_AfADksNKirGu1Sw1Yo4A-39dZTaXD-LKDO-htu6mFvMqlA&oe=635F2996"
+        },
+        "thumbnail_url": "https://geeks.madrasthemes.com/wp-content/uploads/2021/09/course-graphql.jpg",
+        "details": "More and more teams are choosing GraphQL instead of (or along with) REST for their web APIs. GraphQL queries give clients great flexibility in the way they request data from the server, preventing issues such overfetching or underfetching of data, and allowing multiple resources to be retrieved in a single request. In this course you'll learn how to use GraphQL both on the server side and in client applications through practical examples in the form of full-stack JavaScript applications. You will be introduced to all the main GraphQL concepts like schema definition, Queries Mutations, and Subscriptions, as well as to solution to common requirements such as handling authentication/authorization and client-side caching."
+    }
+]
